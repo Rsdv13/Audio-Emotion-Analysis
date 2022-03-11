@@ -1,4 +1,4 @@
-# Audio Sentiment Analysis after a single-channel Multiple Source Separation
+# Audio Emotion Analysis both considering the text and the pitch
 
 The goal of this research work is to use machine learning algorithms to predict the
 emotion of a person who is contacting customer care for their product queries. In this
